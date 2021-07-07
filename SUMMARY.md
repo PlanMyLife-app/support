@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [MY WEEK](my-week/README.md)
-  * [Tasks](my-week/tasks.md)
+
+## MY WEEK <a id="my-week-1"></a>
+
+* [Tasks](my-week-1/tasks.md)
 
