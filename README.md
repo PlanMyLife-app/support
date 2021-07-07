@@ -6,7 +6,7 @@ Welcome to the PlanMyLife knowledge base!
 These docs are a work in progress. If you can't find the answer you're looking for here, reach out to us directly at support@planmylife.app.
 {% endhint %}
 
-## I just signed up for Lunch Money. What now?
+## I just signed up for PlanMyLife. What now?
 
 Congratulations on starting to plan your life!
 
