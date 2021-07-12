@@ -61,6 +61,12 @@ Each goal has two sections:
 1. **Why do I want it?** - It’s crucial to think about why this goal is important to you. It gives the goal more meaning and a strong reason why you want to achieve the goal.
 2. **How am I going to achieve it?** - Because a goal without the plan is just a wish, this is the part where you can create a plan. Split your goal into small, achievable tasks which you can later add to your weekly planning.
 
+#### Editing Goals
+
+You can edit the goal by clicking into the goal area. Hovering over the task with the mouse activates the action menu on the right-hand side where you can pick from **completing the goal** or **removing the goal**.
+
+![](.gitbook/assets/goalactions.png)
+
 #### Goal Tasks
 
 You can add as many tasks to your goal as you want.
@@ -72,4 +78,34 @@ I wouldn’t recommend adding too many. If that’s happening, you should consid
 Create a new task by clicking in the ‘Add task’ field:
 
 ![](.gitbook/assets/addtask.png)
+
+#### Editing Tasks
+
+You can edit a task by clicking on it. Hovering over the task with the mouse activates the action menu on the right-hand side where you can pick from **multiple options.**
+
+![](.gitbook/assets/tasksactionmenu.png)
+
+
+
+#### Add Subtask
+
+Although I recommend keeping your goal tasks as simple as possible sometimes it needs more detail. You can add as many subtasks to your task as you want. However, if you have too many of them, as usual, I recommend splitting the task. Keep it simple.
+
+![](.gitbook/assets/addsubtask.png)
+
+#### Convert To Habit
+
+Sometimes the task can be repetitive, _e.g. "Drink 2 liters of water every day!"._ For tasks like this, you can convert it to **"habit"** and decide on your own weekly scheduling. You can learn more about habits here.
+
+![](.gitbook/assets/habitfromgoal.png)
+
+#### Add To Current Week
+
+You can easily add the task to the current week so it's ready to be worked on. You can also do it here.
+
+#### Scheduled Task
+
+Some tasks need to be worked on at some particular time. You can schedule your task for a specific week or day and time.
+
+![](.gitbook/assets/scheduletask.png)
 
