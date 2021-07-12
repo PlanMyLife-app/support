@@ -8,7 +8,7 @@ For half of my life, I just wandered around without any reasonable goals. I mean
 
 Setting goals provide direction, guides your focus, and helps you sustain momentum in life. It also helps to maintain motivation when you are down. And achieving the goals give a sense of personal satisfaction and accomplishment.
 
-Writing your goals down frees your mind to focus on other essential things in your life and helps to fight procrastination.
+**Writing your goals down frees your mind to focus on other essential things in your life and helps to fight procrastination.**
 
 ### Categories
 
