@@ -26,6 +26,12 @@ Type in your category name or pick a category from the predefined list of the mo
 
 ![](.gitbook/assets/categoriespick.png)
 
+#### Edit Categories
+
+After opening the category you can access the category's action menu which allows you either to **remove the category** or **assign the color**.
+
+![](.gitbook/assets/categoryactionmenu.png)
+
 ### Goals
 
 #### Adding Goals
@@ -64,4 +70,6 @@ I wouldn’t recommend adding too many. If that’s happening, you should consid
 {% endhint %}
 
 Create a new task by clicking in the ‘Add task’ field:
+
+![](.gitbook/assets/addtask.png)
 
