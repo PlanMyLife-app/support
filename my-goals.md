@@ -1,8 +1,6 @@
 # My Goals
 
-> The victory of success is half won when one gains the habit of setting and achieving goals.
-
-* Og Mandino
+> The victory of success is half won when one gains the habit of setting and achieving goals. - Og Mandino
 
 ### Introduction
 
