@@ -16,6 +16,8 @@ Writing your goals down frees your mind to focus on other essential things in yo
 
 Look at your goal setting as a big mind map. What are the essential categories in your life? Your hobbies? Family? Work?
 
+![](.gitbook/assets/categories.png)
+
 #### Create Categories
 
 You can create new categories by clicking on the ‘Add new category’ field.
