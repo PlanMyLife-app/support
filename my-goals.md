@@ -20,5 +20,48 @@ Look at your goal setting as a big mind map. What are the essential categories i
 
 You can create new categories by clicking on the ‘Add new category’ field.
 
+![](.gitbook/assets/addcategory.png)
+
 Type in your category name or pick a category from the predefined list of the most common categories.
+
+![](.gitbook/assets/categoriespick.png)
+
+### Goals
+
+#### Adding Goals
+
+Once you have your category, you can start adding goals by clicking on the Add new goal field.
+
+![](.gitbook/assets/addgoal.png)
+
+Remember. To get the most out of your goals, use the SMART goals.
+
+Smart goals are:
+
+* **S**pecific: Well defined, clear
+* **M**easurable: With specific criteria that measure your progress towards the accomplishment of the goal
+* **A**chievable: Attainable, not impossible to achieve
+* **R**ealistic: Within react and relevant to your life purpose
+* **T**imely: Time-bound, trackable
+
+{% hint style="info" %}
+e.g., “I want to get in shape.” is too general. A more specific goal would be “I want t get a gym membership at my local gym and work out three days a week.”
+{% endhint %}
+
+Each goal has two sections:
+
+![](.gitbook/assets/goalsections.png)
+
+1. **Why do I want it?** - It’s crucial to think about why this goal is important to you. It gives the goal more meaning and a strong reason why you want to achieve the goal.
+2. **How am I going to achieve it?** - Because a goal without the plan is just a wish, this is the part where you can create a plan. Split your goal into small, achievable tasks which you can later add to your weekly planning.
+
+#### Goal Tasks
+
+You can add as many tasks to your goal as you want.
+
+{% hint style="info" %}
+I wouldn’t recommend adding too many. If that’s happening, you should consider splitting the goal into multiple goals. Goals with fewer tasks are easier to achieve, and achieving more gives you energy and boosts your motivation.
+{% endhint %}
+
+Create a new task by clicking in the ‘Add task’ field:
 
