@@ -1,4 +1,4 @@
-# PlanMyLife-app/support
+# My Goals
 
 [Permalink](https://github.com/PlanMyLife-app/support/blob/50c05eda2772b00b9af0acef44df22310e7e4d49/my-goals/goals.md)
 
