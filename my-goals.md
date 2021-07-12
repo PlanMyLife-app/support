@@ -1,11 +1,5 @@
 # My Goals
 
-[Permalink](https://github.com/PlanMyLife-app/support/blob/50c05eda2772b00b9af0acef44df22310e7e4d49/my-goals/goals.md)
-
-Cannot retrieve contributors at this time
-
-## My goals
-
 > The victory of success is half won when one gains the habit of setting and achieving goals.
 
 * Og Mandino
