@@ -28,3 +28,23 @@ Task created with fixed time will apear in the **'Fixed date**' section of the *
 The "**Fixed date**" module will appear only if you have at least one fixed task in your weekly planning.
 {% endhint %}
 
+#### Tasks Actions
+
+Each task has multiple actions:
+
+![](../.gitbook/assets/taskactions.png)
+
+* **Complete task** - Clicking on '**check**' icon you will complete the task. This action will move the task to the bottom of the Tasks box and mark it as '**completed**'. You can reverse this action.
+* **Move task** - Clicking on '**right arrow**' icon you can move the task to the next week. 
+* **Remove task** - Will delete the task permanently. This action can't be reversed.
+
+{% hint style="info" %}
+**Move task** - Application keeps track of how many times has task been moved. If you attempt to move the task for the third time it will ask you if you want to remote the task. 
+
+Moving task more than two times is **not recommended**. You either remove the task \(you obviously can't complete it\) or split the task to smaller tasks.
+{% endhint %}
+
+![Moved task is tagged as moved.](../.gitbook/assets/movedtask.png)
+
+![Completed tasks are moved to the bottom of the Tasks box. It could be &apos;uncheck&apos;-ed.](../.gitbook/assets/completedtask.png)
+
