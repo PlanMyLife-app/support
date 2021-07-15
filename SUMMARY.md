@@ -2,9 +2,10 @@
 
 * [Getting Started](README.md)
 
-## MY WEEK <a id="my-week-1"></a>
+## MY WEEK
 
-* [Tasks](my-week-1/tasks.md)
+* [Tasks](my-week/tasks.md)
+* [Goals And Projects](my-week/goals-and-projects.md)
 
 ---
 
