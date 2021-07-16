@@ -22,3 +22,18 @@ There are two ways how to pick the task from your goals:
 
 ![](../.gitbook/assets/assigngoal.png)
 
+#### Weekly Goal Actions
+
+Once you have your goal task in the weekly planning you can:
+
+1. Complete the task
+2. Move it to the next week
+3. Add subtasks
+4. Remove it
+
+{% hint style="info" %}
+Completing the task automatically completes all subtasks. Completing all subtasks automatically completes the task.
+{% endhint %}
+
+![](../.gitbook/assets/goalsactions.png)
+
